@@ -16,4 +16,4 @@ If you want a code sample that deploys AI Search into multiple regions for globa
 
 + See [.NET samples in Azure AI Search](https://learn.microsoft.com/azure/search/samples-dotnet) for a comprehensive list of all Azure AI Search code samples that run on .NET.
 
-+ See [Azure AI Search documentation](https://learn.microsoft.com/azure/search) for product documentation.
++ See [Azure AI Search documentation](https://learn.microsoft.com/azure/search) for more information
